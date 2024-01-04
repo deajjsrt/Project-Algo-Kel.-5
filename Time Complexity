@@ -1,0 +1,4 @@
+Algorithms                     Time Complexity
+-Binary Search                 - O (log n)
+-Fibonacci Search              - O(2^n)
+-Sentinel Linear Serach        - O(n)
