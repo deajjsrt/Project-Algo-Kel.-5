@@ -1,0 +1,4 @@
+Algorthims                                    Time Complexity
+-Bubble Sort                                  -O(n²)
+-Quick Sort                                   -O(n*logn)
+-Linear Search                                -O(n) 
