@@ -1,0 +1,13 @@
+Algorithms                     Time Complexity
+-Binary Search                 - O (log n)
+-Fibonacci Search              - O(2^n)
+-Sentinel Linear Serach        - O(n)
+Algorthims                                    Time Complexity
+-Bubble Sort                                  - O(n²)
+-Quick Sort                                   - O(n*logn)
+-Linear Search                                - O(n) 
+-Binary Search                                - O(log n)
+-Fibonacci Search                             - O(2^n)
+-Sentinel Linear Search                       - O(n)
+-Closest Pair of Points                       - O(n log n)
+-Find Shortest Paths by Dijkstra's Algorithm  - O((V + E)* log V)
